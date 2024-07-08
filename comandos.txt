@@ -1,0 +1,9 @@
+git init
+git add nombre-del-archivo
+git add .
+git commit m "Mensaje"
+git rm --cached
+git status
+git log
+git checkout -b nuevarama
+git branch nuevarama
